@@ -1,4 +1,5 @@
 # Recursive
+# Recherche Binaire
 # Fonction recursive / JavaScript
 
 const binarySearch = (array, thingToFind, start, end) => {
